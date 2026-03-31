@@ -1,4 +1,4 @@
-# account_anstraction
+# account_abstraction
 
 This project implements Account Abstraction to create smart contract wallets that overcome the limitations of traditional Externally Owned Accounts. Users can enjoy:
 
